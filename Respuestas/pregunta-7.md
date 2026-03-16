@@ -1,0 +1,1 @@
+db.sensores.createIndex({ zona: 1, temperatura: 1 })
