@@ -1,0 +1,1 @@
+db.sensores.find({ zona: "planta" }).explain("executionStats")
